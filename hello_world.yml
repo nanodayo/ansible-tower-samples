@@ -5,3 +5,6 @@
       debug:
         msg: "Hello World!"
 
+    - name: Hello Message 2nd
+      debug:
+        msg: "Hello World 2nd!"
